@@ -1,0 +1,616 @@
+Rain garden ID;Zone;Morphotype;Individuals;Order;Family;Genus;Species
+1;ZE;AJ;2;Hymenoptera;Apidae;-;-
+1;ZE;AL;1;Hymenoptera;Apidae;Tetragonisca ;Tetragonisca angustula
+1;ZE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+1;ZE;BU;1;Hymenoptera;Vespidae;Mischocyttarus;Mischocyttarus sp.
+1;ZE;CM;1;Hymenoptera;Crabronidae;-;-
+1;ZE;CV;1;Hymenoptera;Apidae;Nannotrigona;Nannotrigona testaceicornis
+1;ZE;DG;1;Coleoptera;Curculionidae;-;-
+1;ZE;GP;1;Hemiptera;-;-;-
+1;ZE;GS;1;Hemiptera;-;-;-
+1;ZE;I;1;Lepidoptera;Nymphalidae;Tegosa;Tegosa claudina
+1;ZE;U;1;Lepidoptera;-;-;-
+1;ZE;W;1;Lepidoptera;-;-;-
+1;ZE;X;1;Lepidoptera;-;-;-
+1;ZSE;AN;1;Hymenoptera;Apidae;-;-
+1;ZSE;AX;1;Diptera;Stratiomyidae;Hermetia;Hermetia illucens
+1;ZSE;BB;1;Diptera;Syrphidae;Ocyptamus;Ocyptamus sp.
+1;ZSE;BI;1;Hymenoptera;Apidae;Bombus;Bombus sp.
+1;ZSE;BL;1;Hymenoptera;Apidae;Exomalopsis;Exomalopsis analis
+1;ZSE;CE;1;Hymenoptera;Ichneumonidae;-;-
+1;ZSE;CY;1;Coleoptera;Curculionidae;-;-
+1;ZSE;DI;1;Hemiptera;Reduviidae;Zelus;Zelus sp.
+1;ZSE;DZ;1;Hemiptera;Pyrrhocoridae;Dysdercus;Dysdercus ruficollis
+1;ZSE;EN;1;Diptera;Sarcophagidae;-;-
+1;ZSE;FQ;1;Hemiptera;Cicadellidae;-;-
+1;ZSE;FU;1;Hemiptera;-;-;-
+1;ZSE;P;1;Lepidoptera;-;-;-
+1;ZSE;X;1;Lepidoptera;-;-;-
+2;ZE;AH;1;Hymenoptera;Apidae;Trigona;Trigona spinipes
+2;ZE;AK;1;Hymenoptera;Apidae;Plebeia;Plebeia droryana
+2;ZE;AX;1;Diptera;Stratiomyidae;Hermetia;Hermetia illucens
+2;ZE;DF;1;Coleoptera;Monotomidae;-;-
+2;ZE;DK;1;Coleoptera;Chrysomelidae;-;-
+2;ZE;EL;1;Diptera;Sarcophagidae;-;-
+2;ZE;EN;1;Diptera;Sarcophagidae;-;-
+2;ZE;ER;1;Diptera;Muscidae;-;-
+2;ZE;O;1;Lepidoptera;-;-;-
+2;ZE;W;1;Lepidoptera;-;-;-
+2;ZSE;AH;1;Hymenoptera;Apidae;Trigona;Trigona spinipes
+2;ZSE;AX;1;Diptera;Stratiomyidae;Hermetia;Hermetia illucens
+2;ZSE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+2;ZSE;BS;1;Diptera;Calliphoridae;Chrysomya;Chrysomya sp.
+2;ZSE;EF;1;Diptera;Chironomidae;-;-
+2;ZSE;EI;1;Diptera;Syrphidae;Ornidia;Ornidia obesa
+2;ZSE;EL;1;Diptera;Sarcophagidae;-;-
+2;ZSE;EN;1;Diptera;Sarcophagidae;-;-
+2;ZSE;EO;1;Diptera;Ulidiidae;-;-
+2;ZSE;ER;1;Diptera;Muscidae;-;-
+2;ZSE;FZ;1;Hymenoptera ;Halictidae;-;-
+2;ZSE;G;1;Lepidoptera;Nymphalidae;Dione;Dione vanillae
+2;ZSE;O;1;Lepidoptera;-;-;-
+2;ZSE;P;1;Lepidoptera;-;-;-
+2;ZSE;S;1;Lepidoptera;-;-;-
+3;ZE;AH;2;Hymenoptera;Apidae;Trigona;Trigona spinipes
+3;ZE;AK;1;Hymenoptera;Apidae;Plebeia;Plebeia droryana
+3;ZE;BE;2;Diptera;Muscidae;Hydrotaea;Hydrotaea sp.
+3;ZE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+3;ZE;BJ;1;Odonata;Megapodagrionidae;-;-
+3;ZE;EB;3;Diptera;Dolichopodidae;-;-
+3;ZE;EE;1;Diptera;Syrphidae;-;-
+3;ZE;EF;2;Diptera;Chironomidae;-;-
+3;ZE;EP;1;Diptera;Lauxaniidae;-;-
+3;ZE;EU;1;Diptera;Tachinidae;-;-
+3;ZE;EY;1;Diptera;Drosophilidae;-;-
+3;ZE;FF;1;Diptera;Micropezidae;Paragrallomyia;Paragrallomyia sp.
+3;ZE;FM;1;Hemiptera;Cercopidae;Deois;Deois flavopicta
+3;ZE;FS;1;Hemiptera;Cicadellidae;-;-
+3;ZE;GG;1;Diptera;Mycetophilidae;Mycetophila;Mycetophila sp.
+3;ZE;P;1;Lepidoptera;-;-;-
+3;ZE;Q;3;Lepidoptera;-;-;-
+3;ZE;W;1;Lepidoptera;-;-;-
+3;ZSE;AV;1;Orthoptera; Acrididae;-;-
+3;ZSE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+3;ZSE;BO;1;Odonata;-;-;-
+3;ZSE;BS;1;Diptera;Calliphoridae;Chrysomya;Chrysomya sp.
+3;ZSE;CY;1;Coleoptera;Curculionidae;-;-
+3;ZSE;EF;1;Diptera;Chironomidae;-;-
+4;ZE;AH;1;Hymenoptera;Apidae;Trigona;Trigona spinipes
+4;ZE;BF;2;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+4;ZE;EA;1;Coleoptera;Nitidulidae;-;-
+4;ZE;EL;1;Diptera;Sarcophagidae;-;-
+4;ZE;EN;1;Diptera;Sarcophagidae;-;-
+4;ZE;EQ;1;Diptera;Phoridae;-;-
+4;ZE;FD;1;Diptera;Anthomyiidae;Anthomyia;Anthomyia illocata
+4;ZSE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+4;ZSE;EB;1;Diptera;Dolichopodidae;-;-
+4;ZSE;FH;1;Hymenoptera;Halictidae;-;-
+5;ZE;AD;1;Lepidoptera;-;-;-
+5;ZE;BC;1;Diptera;Syrphidae;Baccha;Baccha sp.
+5;ZE;BE;1;Diptera;Muscidae;Hydrotaea;Hydrotaea sp.
+5;ZE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+5;ZE;BR;1;Diptera;Micropezidae;Taeniaptera;Taeniaptera sp.
+5;ZE;BY;1;Diptera;Tachinidae;-;-
+5;ZE;DJ;1;Coleoptera;Chrysomelidae;Phaedon;Phaedon semimarginatus
+5;ZE;DW;1;Hemiptera;Coreidae;Leptoglossus;Leptoglossus sp.
+5;ZE;DX;1;Hemiptera;Pentatomidae;Mormidea;Mormidea sp.
+5;ZE;EC;1;Diptera;Tipulidae;-;-
+5;ZE;EG;1;Diptera;Culicidae;Culex;Culex sp.
+5;ZE;EL;1;Diptera;Sarcophagidae;-;-
+5;ZE;EM;1;Diptera;Sarcophagidae;-;-
+5;ZE;EN;2;Diptera;Sarcophagidae;-;-
+5;ZE;ER;1;Diptera;Muscidae;-;-
+5;ZE;FG;1;Diptera;Stratiomyidae;Ptecticus;Ptecticus sp.
+5;ZE;FL;2;Hemiptera;Cercopidae;Deois;Deois sp.
+5;ZE;FT;1;Hemiptera;Rhopalidae;-;-
+5;ZE;GJ;1;Diptera;Sepsidae;-;-
+5;ZE;H;1;Lepidoptera;Nymphalidae;Marpesia ;Marpesia petreus
+5;ZE;M;1;Lepidoptera;Nymphalidae;Greta;Greta oto
+5;ZE;X;1;Lepidoptera;-;-;-
+5;ZSE;AP;1;Hymenoptera;Halictidae;Augochloropsis;Augochloropsis sp.
+5;ZSE;AV;1;Orthoptera; Acrididae;-;-
+5;ZSE;BC;1;Diptera;Syrphidae;Baccha;Baccha sp.
+5;ZSE;BF;2;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+5;ZSE;EB;1;Diptera;Dolichopodidae;-;-
+5;ZSE;EE;1;Diptera;Syrphidae;-;-
+5;ZSE;EL;1;Diptera;Sarcophagidae;-;-
+5;ZSE;EO;1;Diptera;Ulidiidae;-;-
+5;ZSE;EP;1;Diptera;Lauxaniidae;-;-
+5;ZSE;FC;1;Diptera;Tachinidae;Beskia;Beskia aelops
+5;ZSE;FL;1;Hemiptera;Cercopidae;Deois;Deois sp.
+5;ZSE;FS;1;Hemiptera;Cicadellidae;-;-
+5;ZSE;FT;1;Hemiptera;Rhopalidae;-;-
+5;ZSE;I;1;Lepidoptera;Nymphalidae;Tegosa;Tegosa claudina
+6;ZE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+6;ZE;BX;1;Diptera;Tachinidae;-;-
+6;ZE;CJ;1;Hymenoptera;Braconideae;-;-
+6;ZE;CW;1;Coleoptera;Coccinellidae;Cycloneda;Cycloneda sanguinea
+6;ZE;EK;1;Diptera;Stratiomyidae;-;-
+6;ZE;EN;1;Diptera;Sarcophagidae;-;-
+6;ZE;EP;1;Diptera;Lauxaniidae;-;-
+6;ZE;EQ;1;Diptera;Phoridae;-;-
+6;ZE;EX;1;Diptera;Dolichopodidae;-;-
+6;ZE;FO;1;Hemiptera;Cicadellidae;Molomea;Molomea sp.
+6;ZE;FS;1;Hemiptera;Cicadellidae;-;-
+6;ZE;GF;3;Diptera;Dolichopodidae;-;-
+6;ZE;GR;1;Coleoptera;Anthribidae ;Araecerus;Araecerus fasciculatus
+6;ZE;GT;1;Hemiptera;-;-;-
+6;ZE;Z;1;Lepidoptera;-;-;-
+6;ZSE;AU;1;Odonata;Libellulidae;-;-
+6;ZSE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+6;ZSE;CF;1;Hymenoptera;Ichneumonidae;-;-
+6;ZSE;EE;1;Diptera;Syrphidae;-;-
+6;ZSE;EG;1;Diptera;Culicidae;Culex;Culex sp.
+6;ZSE;EK;1;Diptera;Stratiomyidae;-;-
+6;ZSE;EL;2;Diptera;Sarcophagidae;-;-
+6;ZSE;Z;1;Lepidoptera;-;-;-
+7;ZE;BF;2;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+7;ZE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+7;ZE;EE;1;Diptera;Syrphidae;-;-
+7;ZE;EN;2;Diptera;Sarcophagidae;-;-
+7;ZE;EO;1;Diptera;Ulidiidae;-;-
+7;ZE;ER;1;Diptera;Muscidae;-;-
+7;ZE;GW;1;Hemiptera;-;-;-
+7;ZE;O;1;Lepidoptera;-;-;-
+7;ZE;W;1;Lepidoptera;-;-;-
+7;ZSE;AH;1;Hymenoptera;Apidae;Trigona;Trigona spinipes
+7;ZSE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+7;ZSE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+7;ZSE;EB;1;Diptera;Dolichopodidae;-;-
+7;ZSE;EI;1;Diptera;Syrphidae;Ornidia;Ornidia obesa
+7;ZSE;EY;1;Diptera;Drosophilidae;-;-
+7;ZSE;GF;1;Diptera;Dolichopodidae;-;-
+8;ZE;AX;1;Diptera;Stratiomyidae;Hermetia;Hermetia illucens
+8;ZE;BC;1;Diptera;Syrphidae;Baccha;Baccha sp.
+8;ZE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+8;ZE;EO;1;Diptera;Ulidiidae;-;-
+8;ZSE;AH;1;Hymenoptera;Apidae;Trigona;Trigona spinipes
+8;ZSE;AL;1;Hymenoptera;Apidae;Tetragonisca ;Tetragonisca angustula
+8;ZSE;BE;2;Diptera;Muscidae;Hydrotaea;Hydrotaea sp.
+8;ZSE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+8;ZSE;EB;1;Diptera;Dolichopodidae;-;-
+8;ZSE;EK;1;Diptera;Stratiomyidae;-;-
+8;ZSE;EL;1;Diptera;Sarcophagidae;-;-
+8;ZSE;FE;1;Diptera;Sciaridae;-;-
+8;ZSE;FK;1;Hemiptera;Membracidae;-;-
+8;ZSE;FN;1;Hemiptera;Cicadellidae;Molomea;Molomea lineiceps
+8;ZSE;GL;1;Hemiptera;-;-;-
+8;ZSE;GQ;1; Coleoptera;Curculionidae ;Pandeleteius;-
+9;ZE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+9;ZE;CA;1;Hymenoptera;Evaniidae;Evania;Evania appendigaster
+9;ZE;CB;1;Hymenoptera;Ichneumonidae;-;-
+9;ZE;CQ;1;Hymenoptera;Megalyridae;-;-
+9;ZE;CV;1;Hymenoptera;Apidae;Nannotrigona;Nannotrigona testaceicornis
+9;ZE;D;1;Lepidoptera;Nymphalidae;Anartia;Anartia jatrophae
+9;ZE;DE;1;Coleoptera;Curculionidae;-;-
+9;ZE;DH;1;Coleoptera;Coccinellidae;-;-
+9;ZE;DY;1;Hemiptera;Cydnidae;Cyrtomenus;Cyrtomenus sp.
+9;ZE;EK;1;Diptera;Stratiomyidae;-;-
+9;ZE;EL;1;Diptera;Sarcophagidae;-;-
+9;ZE;EN;1;Diptera;Sarcophagidae;-;-
+9;ZE;FL;1;Hemiptera;Cercopidae;Deois;Deois sp.
+9;ZE;O;1;Lepidoptera;-;-;-
+9;ZE;R;1;Lepidoptera;-;-;-
+9;ZSE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+9;ZSE;EI;1;Diptera;Syrphidae;Ornidia;Ornidia obesa
+9;ZSE;EK;1;Diptera;Stratiomyidae;-;-
+9;ZSE;EQ;2;Diptera;Phoridae;-;-
+9;ZSE;FI;1;Hymenoptera;Halictidae;Ariphanarthra;Ariphanarthra sp.
+9;ZSE;FN;1;Hemiptera;Cicadellidae;Molomea;Molomea lineiceps
+10;ZE;AW;1;Hymenoptera;Apidae;Melitoma;Melitoma segmentaria
+10;ZE;AX;1;Diptera;Stratiomyidae;Hermetia;Hermetia illucens
+10;ZE;C;1;Lepidoptera;Pieridae;Ascia;Ascia sp.
+10;ZE;CV;1;Hymenoptera;Apidae;Nannotrigona;Nannotrigona testaceicornis
+10;ZE;EE;1;Diptera;Syrphidae;-;-
+10;ZE;EN;1;Diptera;Sarcophagidae;-;-
+10;ZE;ER;1;Diptera;Muscidae;-;-
+10;ZE;FS;1;Hemiptera;Cicadellidae;-;-
+10;ZE;GQ;1; Coleoptera;Curculionidae ;Pandeleteius;-
+10;ZE;T;1;Lepidoptera;-;-;-
+10;ZSE;AL;1;Hymenoptera;Apidae;Tetragonisca ;Tetragonisca angustula
+10;ZSE;AW;2;Hymenoptera;Apidae;Melitoma;Melitoma segmentaria
+10;ZSE;BE;1;Diptera;Muscidae;Hydrotaea;Hydrotaea sp.
+10;ZSE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+10;ZSE;BS;1;Diptera;Calliphoridae;Chrysomya;Chrysomya sp.
+10;ZSE;DC;1;Coleoptera;Chrysomelidae;Diabrotica;Diabrotica speciosa
+10;ZSE;DI;1;Hemiptera;Reduviidae;Zelus;Zelus sp.
+10;ZSE;DR;1;Hemiptera;Pentatomidae;-;-
+10;ZSE;E;1;Lepidoptera;Pieridae;Eurema;Eurema daira palmira
+10;ZSE;EE;1;Diptera;Syrphidae;-;-
+10;ZSE;EO;1;Diptera;Ulidiidae;-;-
+10;ZSE;EW;1;Diptera;Lauxaniidae;Xenochaetina;Xenochaetina sp.
+10;ZSE;FH;1;Hymenoptera;Halictidae;-;-
+10;ZSE;FT;2;Hemiptera;Rhopalidae;-;-
+10;ZSE;GK;1;Hemiptera;-;-;-
+10;ZSE;N;1;Lepidoptera;Erebidae;Clystea;Clystea carnicauda
+11;ZE;AE;1;Lepidoptera;-;-;-
+11;ZE;BC;1;Diptera;Syrphidae;Baccha;Baccha sp.
+11;ZE;BE;2;Diptera;Muscidae;Hydrotaea;Hydrotaea sp.
+11;ZE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+11;ZE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+11;ZE;BS;1;Diptera;Calliphoridae;Chrysomya;Chrysomya sp.
+11;ZE;BZ;1;Diptera;Tachinidae;-;-
+11;ZE;DL;1;Coleoptera;Coccinellidae;Coccinella;Coccinella sp.
+11;ZE;DS;2;Hemiptera;Coreidae;Sphictyrtus;Sphictyrtus sp.
+11;ZE;EB;1;Diptera;Dolichopodidae;-;-
+11;ZE;ED;1;Diptera;Mycetophilidae;-;-
+11;ZE;EE;1;Diptera;Syrphidae;-;-
+11;ZE;EF;1;Diptera;Chironomidae;-;-
+11;ZE;EI;1;Diptera;Syrphidae;Ornidia;Ornidia obesa
+11;ZE;EJ;1;Diptera;Syrphidae;Ocyptamus;Ocyptamus sp.
+11;ZE;EK;1;Diptera;Stratiomyidae;-;-
+11;ZE;GM;1;Hemiptera;-;-;-
+11;ZE;L;1;Lepidoptera;Pieridae;Eurema;Eurema xanthochlora
+11;ZE;O;1;Lepidoptera;-;-;-
+11;ZE;X;1;Lepidoptera;-;-;-
+11;ZSE;BA;1;Diptera;Stratiomyidae;Cyphomyia;Cyphomyia aurifrons
+11;ZSE;BE;1;Diptera;Muscidae;Hydrotaea;Hydrotaea sp.
+11;ZSE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+11;ZSE;DI;1;Hemiptera;Reduviidae;Zelus;Zelus sp.
+11;ZSE;DW;1;Hemiptera;Coreidae;Leptoglossus;Leptoglossus sp.
+11;ZSE;EK;1;Diptera;Stratiomyidae;-;-
+11;ZSE;EN;1;Diptera;Sarcophagidae;-;-
+11;ZSE;EP;1;Diptera;Lauxaniidae;-;-
+11;ZSE;FD;1;Diptera;Anthomyiidae;Anthomyia;Anthomyia illocata
+12;ZE;AR;1;Hymenoptera;Halictidae ;-;-
+12;ZE;AW;1;Hymenoptera;Apidae;Melitoma;Melitoma segmentaria
+12;ZE;BN;1;Hymenoptera;Apidae;Xylocopa;Xylocopa sp.
+12;ZE;ER;1;Diptera;Muscidae;-;-
+12;ZE;FI;1;Hymenoptera;Halictidae;Ariphanarthra;Ariphanarthra sp.
+12;ZE;GS;1;Hemiptera;-;-;-
+12;ZSE;AH;1;Hymenoptera;Apidae;Trigona;Trigona spinipes
+12;ZSE;AK;1;Hymenoptera;Apidae;Plebeia;Plebeia droryana
+12;ZSE;AL;2;Hymenoptera;Apidae;Tetragonisca ;Tetragonisca angustula
+12;ZSE;BB;1;Diptera;Syrphidae;Ocyptamus;Ocyptamus sp.
+12;ZSE;BE;1;Diptera;Muscidae;Hydrotaea;Hydrotaea sp.
+12;ZSE;EE;2;Diptera;Syrphidae;-;-
+12;ZSE;EJ;1;Diptera;Syrphidae;Ocyptamus;Ocyptamus sp.
+12;ZSE;EL;1;Diptera;Sarcophagidae;-;-
+12;ZSE;EN;1;Diptera;Sarcophagidae;-;-
+12;ZSE;FT;1;Hemiptera;Rhopalidae;-;-
+12;ZSE;GO;2; Hemiptera ;Miridae;Horciasinus;Horciasinus sp.
+12;ZSE;P;2;Lepidoptera;-;-;-
+13;ZE;AK;1;Hymenoptera;Apidae;Plebeia;Plebeia droryana
+13;ZE;AQ;1;Hymenoptera;Halictidae;-;-
+13;ZE;AW;1;Hymenoptera;Apidae;Melitoma;Melitoma segmentaria
+13;ZE;BC;1;Diptera;Syrphidae;Baccha;Baccha sp.
+13;ZE;DJ;1;Coleoptera;Chrysomelidae;Phaedon;Phaedon semimarginatus
+13;ZE;DP;1;Hemiptera;Pentatominae;Euschistus;Euschistus heros
+13;ZE;DV;1;Hemiptera;Rhopalidae;Harmostes;Harmostes sp.
+13;ZE;EB;1;Diptera;Dolichopodidae;-;-
+13;ZE;FY;1;Hymenoptera;Halictidae;-;-
+13;ZE;GE;1;Hymenoptera;Halictidae;-;-
+13;ZSE;BE;1;Diptera;Muscidae;Hydrotaea;Hydrotaea sp.
+13;ZSE;CL;1;Hymenoptera;Crabronidae;-;-
+13;ZSE;DL;1;Coleoptera;Coccinellidae;Coccinella;Coccinella sp.
+13;ZSE;FV;1;Hemiptera;-;-;-
+13;ZSE;GF;1;Diptera;Dolichopodidae;-;-
+13;ZSE;GM;1;Hemiptera;-;-;-
+14;ZE;AK;1;Hymenoptera;Apidae;Plebeia;Plebeia droryana
+14;ZE;BF;2;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+14;ZE;CX;1;Coleoptera;Coccinellidae;Scymnus;Scymnus sp.
+14;ZE;CZ;1;Coleoptera;Chrysomelidae;Chalepus;Chalepus sp.
+14;ZE;DA;1;Coleoptera;Chrysomelidae;Neolema;Neolema dorsalis
+14;ZE;DI;1;Hemiptera;Reduviidae;Zelus;Zelus sp.
+14;ZE;EB;1;Diptera;Dolichopodidae;-;-
+14;ZE;EE;1;Diptera;Syrphidae;-;-
+14;ZE;EL;1;Diptera;Sarcophagidae;-;-
+14;ZE;FA;1;Diptera;Cecidomyiidae;-;-
+14;ZE;FI;1;Hymenoptera;Halictidae;Ariphanarthra;Ariphanarthra sp.
+14;ZE;FS;2;Hemiptera;Cicadellidae;-;-
+14;ZE;FT;1;Hemiptera;Rhopalidae;-;-
+14;ZE;FU;1;Hemiptera;-;-;-
+14;ZE;GK;1;Hemiptera;-;-;-
+14;ZE;GL;1;Hemiptera;-;-;-
+14;ZSE;AK;1;Hymenoptera;Apidae;Plebeia;Plebeia droryana
+14;ZSE;AL;2;Hymenoptera;Apidae;Tetragonisca ;Tetragonisca angustula
+14;ZSE;AY;1;Diptera;Syrphidae;Eristalinus;Eristalinus sp.
+14;ZSE;BB;1;Diptera;Syrphidae;Ocyptamus;Ocyptamus sp.
+14;ZSE;CU;1;Hymenoptera;Apidae;Friesella;Friesella schrottkyi
+14;ZSE;CV;1;Hymenoptera;Apidae;Nannotrigona;Nannotrigona testaceicornis
+14;ZSE;ED;1;Diptera;Mycetophilidae;-;-
+14;ZSE;EL;1;Diptera;Sarcophagidae;-;-
+15;ZE;B;1;Lepidoptera;Pieridae;Eurema;Eurema daira palmira
+15;ZE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+15;ZE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+15;ZE;DV;1;Hemiptera;Rhopalidae;Harmostes;Harmostes sp.
+15;ZE;EE;1;Diptera;Syrphidae;-;-
+15;ZE;EL;2;Diptera;Sarcophagidae;-;-
+15;ZE;FP;1;Hemiptera;Miridae;-;-
+15;ZE;FT;1;Hemiptera;Rhopalidae;-;-
+15;ZSE;AM;1;Orthoptera;Tettigoniidae;-;-
+15;ZSE;FR;1;Hemiptera;Cicadellidae;-;-
+15;ZSE;FU;1;Hemiptera;-;-;-
+15;ZSE;GN;1;Hemiptera;Pentatomidae ;Antiteuchus;Antiteuchus sp.
+15;ZSE;GR;1;Coleoptera;Anthribidae ;Araecerus;Araecerus fasciculatus
+16;ZE;AK;1;Hymenoptera;Apidae;Plebeia;Plebeia droryana
+16;ZE;AR;1;Hymenoptera;Halictidae ;-;-
+16;ZE;AX;1;Diptera;Stratiomyidae;Hermetia;Hermetia illucens
+16;ZE;B;1;Lepidoptera;Pieridae;Eurema;Eurema daira palmira
+16;ZE;CV;1;Hymenoptera;Apidae;Nannotrigona;Nannotrigona testaceicornis
+16;ZE;DL;1;Coleoptera;Coccinellidae;Coccinella;Coccinella sp.
+16;ZE;DM;1;Coleoptera;Tenebrionidae;Lagria;Lagria sp.
+16;ZE;EB;1;Diptera;Dolichopodidae;-;-
+16;ZE;F;1;Lepidoptera;Nymphalidae;Dione;Dione juno
+16;ZE;FI;1;Hymenoptera;Halictidae;Ariphanarthra;Ariphanarthra sp.
+16;ZE;FL;1;Hemiptera;Cercopidae;Deois;Deois sp.
+16;ZE;FW;1;Diptera;Tachinidae ;-;-
+16;ZE;GJ;1;Diptera;Sepsidae;-;-
+16;ZE;GN;1;Hemiptera;Pentatomidae ;Antiteuchus;Antiteuchus sp.
+16;ZSE;AI;1;Hymenoptera;Chalcididae;-;-
+16;ZSE;AJ;1;Hymenoptera;Apidae;-;-
+16;ZSE;BC;1;Diptera;Syrphidae;Baccha;Baccha sp.
+16;ZSE;BW;1;Diptera;Tachinidae;Leschenaultia;Leschenaultia sp.
+16;ZSE;CG;1;Hymenoptera;Vespidae;-;-
+16;ZSE;CH;1;Hymenoptera;Vespidae;-;-
+16;ZSE;CR;1;Hymenoptera;Megalyridae;-;-
+16;ZSE;DM;1;Coleoptera;Tenebrionidae;Lagria;Lagria sp.
+16;ZSE;DN;1;Hemiptera;Coreidae;-;-
+16;ZSE;EL;1;Diptera;Sarcophagidae;-;-
+16;ZSE;FK;1;Hemiptera;Membracidae;-;-
+16;ZSE;FN;1;Hemiptera;Cicadellidae;Molomea;Molomea lineiceps
+16;ZSE;J;1;Lepidoptera;Nymphalidae;Junonia;Junonia evarete
+17;ZE;AG;1;Lepidoptera;-;-;-
+17;ZE;EE;1;Diptera;Syrphidae;-;-
+17;ZE;EL;1;Diptera;Sarcophagidae;-;-
+17;ZE;FI;1;Hymenoptera;Halictidae;Ariphanarthra;Ariphanarthra sp.
+17;ZSE;AH;1;Hymenoptera;Apidae;Trigona;Trigona spinipes
+17;ZSE;BE;1;Diptera;Muscidae;Hydrotaea;Hydrotaea sp.
+17;ZSE;CS;1;Hymenoptera;Cynipidae;-;-
+17;ZSE;DU;1;Hemiptera;Tingidae;Teleonemia;Teleonemia scrupulosa
+17;ZSE;EB;2;Diptera;Dolichopodidae;-;-
+17;ZSE;EN;2;Diptera;Sarcophagidae;-;-
+17;ZSE;EO;1;Diptera;Ulidiidae;-;-
+17;ZSE;FI;1;Hymenoptera;Halictidae;Ariphanarthra;Ariphanarthra sp.
+18;ZE;AL;1;Hymenoptera;Apidae;Tetragonisca ;Tetragonisca angustula
+18;ZE;AN;1;Hymenoptera;Apidae;-;-
+18;ZE;AR;1;Hymenoptera;Halictidae ;-;-
+18;ZE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+18;ZE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+18;ZE;BR;1;Diptera;Micropezidae;Taeniaptera;Taeniaptera sp.
+18;ZE;D;1;Lepidoptera;Nymphalidae;Anartia;Anartia jatrophae
+18;ZE;DI;2;Hemiptera;Reduviidae;Zelus;Zelus sp.
+18;ZE;DV;1;Hemiptera;Rhopalidae;Harmostes;Harmostes sp.
+18;ZE;DX;1;Hemiptera;Pentatomidae;Mormidea;Mormidea sp.
+18;ZE;EE;1;Diptera;Syrphidae;-;-
+18;ZE;EO;1;Diptera;Ulidiidae;-;-
+18;ZE;EP;1;Diptera;Lauxaniidae;-;-
+18;ZE;EV;1;Diptera;Tachinidae;-;-
+18;ZE;FI;1;Hymenoptera;Halictidae;Ariphanarthra;Ariphanarthra sp.
+18;ZE;FS;1;Hemiptera;Cicadellidae;-;-
+18;ZE;FV;1;Hemiptera;-;-;-
+18;ZE;GH;1;Diptera;-;-;-
+18;ZE;P;1;Lepidoptera;-;-;-
+18;ZSE;AW;1;Hymenoptera;Apidae;Melitoma;Melitoma segmentaria
+18;ZSE;BS;1;Diptera;Calliphoridae;Chrysomya;Chrysomya sp.
+18;ZSE;CV;1;Hymenoptera;Apidae;Nannotrigona;Nannotrigona testaceicornis
+18;ZSE;FK;1;Hemiptera;Membracidae;-;-
+19;ZE;AS;1;Hymenoptera;Apidae;Euglossa;Euglossa sp.
+19;ZE;BB;1;Diptera;Syrphidae;Ocyptamus;Ocyptamus sp.
+19;ZE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+19;ZE;BI;1;Hymenoptera;Apidae;Bombus;Bombus sp.
+19;ZE;BP;1;Hymenoptera;Halictidae;Pseudaugochlora;Pseudaugochlora sp.
+19;ZE;BU;1;Hymenoptera;Vespidae;Mischocyttarus;Mischocyttarus sp.
+19;ZE;D;1;Lepidoptera;Nymphalidae;Anartia;Anartia jatrophae
+19;ZE;DA;1;Coleoptera;Chrysomelidae;Neolema;Neolema dorsalis
+19;ZE;ED;1;Diptera;Mycetophilidae;-;-
+19;ZE;EE;1;Diptera;Syrphidae;-;-
+19;ZE;EN;1;Diptera;Sarcophagidae;-;-
+19;ZE;FI;1;Hymenoptera;Halictidae;Ariphanarthra;Ariphanarthra sp.
+19;ZE;GI;1;Diptera;-;-;-
+19;ZE;GR;1;Coleoptera;Anthribidae ;Araecerus;Araecerus fasciculatus
+19;ZE;V;2;Lepidoptera;-;-;-
+19;ZE;X;1;Lepidoptera;-;-;-
+19;ZSE;A;1;Lepidoptera;Pieridae;Ascia;Ascia monuste orseis
+19;ZSE;AH;1;Hymenoptera;Apidae;Trigona;Trigona spinipes
+19;ZSE;AL;2;Hymenoptera;Apidae;Tetragonisca ;Tetragonisca angustula
+19;ZSE;BB;1;Diptera;Syrphidae;Ocyptamus;Ocyptamus sp.
+19;ZSE;BE;1;Diptera;Muscidae;Hydrotaea;Hydrotaea sp.
+19;ZSE;BG;1;Diptera;Syrphidae;Salpingogaster;Salpingogaster sp.
+19;ZSE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+19;ZSE;BT;1;Hymenoptera;Vespidae;Polistes;Polistes versicolor
+19;ZSE;C;1;Lepidoptera;Pieridae;Ascia;Ascia sp.
+19;ZSE;CV;1;Hymenoptera;Apidae;Nannotrigona;Nannotrigona testaceicornis
+19;ZSE;DK;1;Coleoptera;Chrysomelidae;-;-
+19;ZSE;EE;1;Diptera;Syrphidae;-;-
+19;ZSE;ET;1;Diptera;Muscidae;-;-
+19;ZSE;FB;1;Diptera;Lauxaniidae;Xenochaetina;Xenochaetina flavipennis
+19;ZSE;FS;1;Hemiptera;Cicadellidae;-;-
+19;ZSE;GB;1;Hymenoptera;Apidae;Exomalopsis;Exomalopsis sp.
+19;ZSE;GU;1;Hemiptera;-;-;-
+19;ZSE;P;1;Lepidoptera;-;-;-
+20;ZE;A;1;Lepidoptera;Pieridae;Ascia;Ascia monuste orseis
+20;ZE;AO;2;Hymenoptera;Apidae;Thygater;Thygater analis
+20;ZE;AS;1;Hymenoptera;Apidae;Euglossa;Euglossa sp.
+20;ZE;AX;1;Diptera;Stratiomyidae;Hermetia;Hermetia illucens
+20;ZE;AZ;1;Diptera;Tachinidae;Trichopoda;Trichopoda pennipes
+20;ZE;BC;1;Diptera;Syrphidae;Baccha;Baccha sp.
+20;ZE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+20;ZE;BI;1;Hymenoptera;Apidae;Bombus;Bombus sp.
+20;ZE;C;1;Lepidoptera;Pieridae;Ascia;Ascia sp.
+20;ZE;D;1;Lepidoptera;Nymphalidae;Anartia;Anartia jatrophae
+20;ZE;DV;1;Hemiptera;Rhopalidae;Harmostes;Harmostes sp.
+20;ZE;EB;1;Diptera;Dolichopodidae;-;-
+20;ZE;FI;1;Hymenoptera;Halictidae;Ariphanarthra;Ariphanarthra sp.
+20;ZE;GE;1;Hymenoptera;Halictidae;-;-
+20;ZE;O;2;Lepidoptera;-;-;-
+20;ZE;W;1;Lepidoptera;-;-;-
+20;ZSE;BC;1;Diptera;Syrphidae;Baccha;Baccha sp.
+20;ZSE;BV;1;Diptera;Tachinidae;Leschenaultia;Leschenaultia sp.
+20;ZSE;CI;1;Hymenoptera;Vespidae;-;-
+20;ZSE;DH;1;Coleoptera;Coccinellidae;-;-
+20;ZSE;EM;1;Diptera;Sarcophagidae;-;-
+20;ZSE;FN;1;Hemiptera;Cicadellidae;Molomea;Molomea lineiceps
+20;ZSE;FS;1;Hemiptera;Cicadellidae;-;-
+21;ZE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+21;ZE;BI;1;Hymenoptera;Apidae;Bombus;Bombus sp.
+21;ZE;BM;1;Hymenoptera;Ichneumonidae;-;-
+21;ZE;CV;1;Hymenoptera;Apidae;Nannotrigona;Nannotrigona testaceicornis
+21;ZE;DV;1;Hemiptera;Rhopalidae;Harmostes;Harmostes sp.
+21;ZE;G;1;Lepidoptera;Nymphalidae;Dione;Dione vanillae
+21;ZE;O;3;Lepidoptera;-;-;-
+21;ZE;P;1;Lepidoptera;-;-;-
+21;ZE;W;1;Lepidoptera;-;-;-
+21;ZSE;AB;1;Lepidoptera;-;-;-
+21;ZSE;AL;3;Hymenoptera;Apidae;Tetragonisca ;Tetragonisca angustula
+21;ZSE;B;1;Lepidoptera;Pieridae;Eurema;Eurema daira palmira
+21;ZSE;BC;1;Diptera;Syrphidae;Baccha;Baccha sp.
+21;ZSE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+21;ZSE;D;1;Lepidoptera;Nymphalidae;Anartia;Anartia jatrophae
+21;ZSE;EE;1;Diptera;Syrphidae;-;-
+21;ZSE;EN;2;Diptera;Sarcophagidae;-;-
+21;ZSE;FQ;1;Hemiptera;Cicadellidae;-;-
+21;ZSE;FS;1;Hemiptera;Cicadellidae;-;-
+21;ZSE;FT;1;Hemiptera;Rhopalidae;-;-
+21;ZSE;O;1;Lepidoptera;-;-;-
+21;ZSE;W;1;Lepidoptera;-;-;-
+22;ZE;BK;1;Hymenoptera;Apidae;Exomalopsis;Exomalopsis auropilosa
+22;ZE;CP;1;Hymenoptera;Diapriidae;-;-
+22;ZE;CT;1;Hymenoptera;Apidae;Frieseomelitta;Frieseomelitta languida
+22;ZE;D;1;Lepidoptera;Nymphalidae;Anartia;Anartia jatrophae
+22;ZE;EB;1;Diptera;Dolichopodidae;-;-
+22;ZE;EL;1;Diptera;Sarcophagidae;-;-
+22;ZE;EN;1;Diptera;Sarcophagidae;-;-
+22;ZE;FK;1;Hemiptera;Membracidae;-;-
+22;ZE;P;1;Lepidoptera;-;-;-
+22;ZSE;AH;1;Hymenoptera;Apidae;Trigona;Trigona spinipes
+22;ZSE;AK;1;Hymenoptera;Apidae;Plebeia;Plebeia droryana
+22;ZSE;AT;1;Orthoptera;Phalangopsidae;-;-
+22;ZSE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+22;ZSE;CD;1;Hymenoptera;Ichneumonidae;-;-
+22;ZSE;DB;1;Coleoptera;Curculionidae;Neochetina;Neochetina sp.
+22;ZSE;DD;1;Coleoptera;Chrysomelidae;Metallactus;Metallactus quindecimguttatus
+22;ZSE;DI;1;Hemiptera;Reduviidae;Zelus;Zelus sp.
+22;ZSE;DQ;1;Hemiptera;Pentatominae;Euschistus;Euschistus sp.
+22;ZSE;DX;2;Hemiptera;Pentatomidae;Mormidea;Mormidea sp.
+22;ZSE;EE;1;Diptera;Syrphidae;-;-
+22;ZSE;EH;1;Diptera;Culicinae;Aedes;Aedes sp.
+22;ZSE;EM;1;Diptera;Sarcophagidae;-;-
+22;ZSE;EQ;1;Diptera;Phoridae;-;-
+22;ZSE;FK;1;Hemiptera;Membracidae;-;-
+22;ZSE;FL;1;Hemiptera;Cercopidae;Deois;Deois sp.
+22;ZSE;FN;1;Hemiptera;Cicadellidae;Molomea;Molomea lineiceps
+22;ZSE;FP;1;Hemiptera;Miridae;-;-
+22;ZSE;FQ;1;Hemiptera;Cicadellidae;-;-
+22;ZSE;FT;1;Hemiptera;Rhopalidae;-;-
+22;ZSE;FX;1;Lepidoptera;-;-;-
+22;ZSE;Y;1;Lepidoptera;Nymphalidae;Cissia;Cissia eous
+23;ZE;BB;1;Diptera;Syrphidae;Ocyptamus;Ocyptamus sp.
+23;ZE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+23;ZE;DW;1;Hemiptera;Coreidae;Leptoglossus;Leptoglossus sp.
+23;ZE;EB;2;Diptera;Dolichopodidae;-;-
+23;ZE;EL;1;Diptera;Sarcophagidae;-;-
+23;ZE;EN;1;Diptera;Sarcophagidae;-;-
+23;ZE;FQ;1;Hemiptera;Cicadellidae;-;-
+23;ZE;K;1;Lepidoptera;Riodinidae;Nymphidium;Nymphidium lisimon
+23;ZSE;DO;1;Hemiptera;Pentatomidae;Antiteuchus;Antiteuchus sp.
+24;ZE;AX;1;Diptera;Stratiomyidae;Hermetia;Hermetia illucens
+24;ZE;BB;1;Diptera;Syrphidae;Ocyptamus;Ocyptamus sp.
+24;ZE;BD;1;Neuroptera;Chrysopidae;Leucochrysa;Leucochrysa sp.
+24;ZE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+24;ZE;EE;1;Diptera;Syrphidae;-;-
+24;ZE;EN;1;Diptera;Sarcophagidae;-;-
+24;ZE;EZ;1;Diptera;Lauxaniidae;Physegenua;Physegenua sp.
+24;ZE;FS;1;Hemiptera;Cicadellidae;-;-
+24;ZE;FT;1;Hemiptera;Rhopalidae;-;-
+24;ZE;P;1;Lepidoptera;-;-;-
+24;ZSE;AK;2;Hymenoptera;Apidae;Plebeia;Plebeia droryana
+24;ZSE;DL;1;Coleoptera;Coccinellidae;Coccinella;Coccinella sp.
+24;ZSE;DU;1;Hemiptera;Tingidae;Teleonemia;Teleonemia scrupulosa
+24;ZSE;EE;1;Diptera;Syrphidae;-;-
+24;ZSE;EQ;1;Diptera;Phoridae;-;-
+24;ZSE;FI;1;Hymenoptera;Halictidae;Ariphanarthra;Ariphanarthra sp.
+25;ZE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+25;ZE;EE;1;Diptera;Syrphidae;-;-
+25;ZSE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+25;ZSE;BQ;1;Hymenoptera;Ichneumonidae;Orthopelma;Orthopelma sp.
+25;ZSE;CK;1;Hymenoptera;Braconideae;-;-
+25;ZSE;CU;3;Hymenoptera;Apidae;Friesella;Friesella schrottkyi
+25;ZSE;CW;1;Coleoptera;Coccinellidae;Cycloneda;Cycloneda sanguinea
+25;ZSE;DR;1;Hemiptera;Pentatomidae;-;-
+25;ZSE;EE;1;Diptera;Syrphidae;-;-
+25;ZSE;FI;1;Hymenoptera;Halictidae;Ariphanarthra;Ariphanarthra sp.
+25;ZSE;FU;1;Hemiptera;-;-;-
+25;ZSE;GN;1;Hemiptera;Pentatomidae ;Antiteuchus;Antiteuchus sp.
+26;ZE;AL;1;Hymenoptera;Apidae;Tetragonisca ;Tetragonisca angustula
+26;ZE;BC;1;Diptera;Syrphidae;Baccha;Baccha sp.
+26;ZE;BE;2;Diptera;Muscidae;Hydrotaea;Hydrotaea sp.
+26;ZE;BF;2;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+26;ZE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+26;ZE;EE;1;Diptera;Syrphidae;-;-
+26;ZE;EQ;1;Diptera;Phoridae;-;-
+26;ZE;FV;2;Hemiptera;-;-;-
+26;ZE;FX;1;Lepidoptera;-;-;-
+26;ZE;P;1;Lepidoptera;-;-;-
+26;ZSE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+26;ZSE;ED;1;Diptera;Mycetophilidae;-;-
+26;ZSE;ES;1;Diptera;Muscidae;-;-
+26;ZSE;GV;1;Hemiptera;-;-;-
+27;ZE;AF;1;Lepidoptera;-;-;-
+27;ZE;AL;1;Hymenoptera;Apidae;Tetragonisca ;Tetragonisca angustula
+27;ZE;BN;1;Hymenoptera;Apidae;Xylocopa;Xylocopa sp.
+27;ZE;BR;1;Diptera;Micropezidae;Taeniaptera;Taeniaptera sp.
+27;ZE;CC;1;Hymenoptera;Ichneumonidae;Collyria;Collyria sp.
+27;ZE;CO;1;Hymenoptera;Crabronidae;-;-
+27;ZE;DV;1;Hemiptera;Rhopalidae;Harmostes;Harmostes sp.
+27;ZE;E;1;Lepidoptera;Pieridae;Eurema;Eurema daira palmira
+27;ZE;EB;1;Diptera;Dolichopodidae;-;-
+27;ZE;EE;1;Diptera;Syrphidae;-;-
+27;ZE;EF;1;Diptera;Chironomidae;-;-
+27;ZE;EL;1;Diptera;Sarcophagidae;-;-
+27;ZE;EN;1;Diptera;Sarcophagidae;-;-
+27;ZE;EP;1;Diptera;Lauxaniidae;-;-
+27;ZE;FJ;1;Hymenoptera;Halictidae;Habralictus;Habralictus sp.
+27;ZE;O;1;Lepidoptera;-;-;-
+27;ZE;P;1;Lepidoptera;-;-;-
+27;ZSE;AH;1;Hymenoptera;Apidae;Trigona;Trigona spinipes
+27;ZSE;AK;1;Hymenoptera;Apidae;Plebeia;Plebeia droryana
+27;ZSE;BH;2;Hymenoptera;Apidae;Apis ;Apis mellifera
+27;ZSE;BN;1;Hymenoptera;Apidae;Xylocopa;Xylocopa sp.
+27;ZSE;BP;1;Hymenoptera;Halictidae;Pseudaugochlora;Pseudaugochlora sp.
+27;ZSE;CN;1;Hymenoptera;Crabronidae;-;-
+27;ZSE;EI;1;Diptera;Syrphidae;Ornidia;Ornidia obesa
+27;ZSE;F;1;Lepidoptera;Nymphalidae;Dione;Dione juno
+28;ZE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+28;ZE;EB;2;Diptera;Dolichopodidae;-;-
+28;ZE;X;1;Lepidoptera;-;-;-
+28;ZSE;AK;1;Hymenoptera;Apidae;Plebeia;Plebeia droryana
+28;ZSE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+29;ZE;AA;1;Lepidoptera;-;-;-
+29;ZE;AJ;2;Hymenoptera;Apidae;-;-
+29;ZE;AL;1;Hymenoptera;Apidae;Tetragonisca ;Tetragonisca angustula
+29;ZE;BC;1;Diptera;Syrphidae;Baccha;Baccha sp.
+29;ZE;BH;1;Hymenoptera;Apidae;Apis ;Apis mellifera
+29;ZE;BI;1;Hymenoptera;Apidae;Bombus;Bombus sp.
+29;ZE;BM;1;Hymenoptera;Ichneumonidae;-;-
+29;ZE;BS;1;Diptera;Calliphoridae;Chrysomya;Chrysomya sp.
+29;ZE;E;1;Lepidoptera;Pieridae;Eurema;Eurema daira palmira
+29;ZE;EE;1;Diptera;Syrphidae;-;-
+29;ZE;EL;1;Diptera;Sarcophagidae;-;-
+29;ZE;EM;1;Diptera;Sarcophagidae;-;-
+29;ZE;ER;1;Diptera;Muscidae;-;-
+29;ZE;FH;1;Hymenoptera;Halictidae;-;-
+29;ZE;FL;1;Hemiptera;Cercopidae;Deois;Deois sp.
+29;ZE;FT;1;Hemiptera;Rhopalidae;-;-
+29;ZE;GE;1;Hymenoptera;Halictidae;-;-
+29;ZE;W;1;Lepidoptera;-;-;-
+29;ZE;X;2;Lepidoptera;-;-;-
+29;ZSE;AC;1;Lepidoptera;-;-;-
+29;ZSE;AK;1;Hymenoptera;Apidae;Plebeia;Plebeia droryana
+29;ZSE;BE;1;Diptera;Muscidae;Hydrotaea;Hydrotaea sp.
+29;ZSE;BF;1;Diptera;Calliphoridae;Lucilia;Lucilia sp.
+29;ZSE;CY;1;Coleoptera;Curculionidae;-;-
+29;ZSE;EO;1;Diptera;Ulidiidae;-;-
+29;ZSE;FN;1;Hemiptera;Cicadellidae;Molomea;Molomea lineiceps
+29;ZSE;FS;1;Hemiptera;Cicadellidae;-;-
+29;ZSE;GO;1; Hemiptera ;Miridae;Horciasinus;Horciasinus sp.
+29;ZSE;GP;1;Hemiptera;-;-;-
+29;ZSE;P;1;Lepidoptera;-;-;-
+30;ZE;AH;1;Hymenoptera;Apidae;Trigona;Trigona spinipes
+30;ZE;BB;1;Diptera;Syrphidae;Ocyptamus;Ocyptamus sp.
+30;ZE;BD;1;Neuroptera;Chrysopidae;Leucochrysa;Leucochrysa sp.
+30;ZE;BE;1;Diptera;Muscidae;Hydrotaea;Hydrotaea sp.
+30;ZE;EE;1;Diptera;Syrphidae;-;-
+30;ZE;EI;1;Diptera;Syrphidae;Ornidia;Ornidia obesa
+30;ZE;EN;1;Diptera;Sarcophagidae;-;-
+30;ZSE;X;2;Lepidoptera;-;-;-
