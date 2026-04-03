@@ -3,7 +3,7 @@ Supplementary material for the article
 
 This repository contains the following files:
 
-Supplementary_Material_chap_II_JWA.doc – Includes Supplementary Tables 1 and 2 cited in the article. Supplementary Table 1 provides a description of the explanatory variables, and Supplementary Table 2 defines the model structure, statistical families, and R packages used.
+Supplementary_Material_chap_II_JWA.doc – Includes Supplementary Tables 1 and 2, Supplementary Figure 1, 2 and 3, cited in the article. Supplementary Table 1 provides a description of the explanatory variables, and Supplementary Table 2 defines the model structure, statistical families, and R packages used. FS1 is a representation of the insects sampling methods; FS2 is the correlation matrix of explanatory variables; and FS3 is a aerial view of all sampled buffers. 
 
 Supplementary_Material_3.csv – Dataset containing morphotypes, taxonomic identifications of sampled individuals, and sampling locations (rain garden and zone).
 
