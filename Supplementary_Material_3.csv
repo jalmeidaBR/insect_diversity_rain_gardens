@@ -338,7 +338,7 @@ Rain garden ID;Zone;Morphotype;Individuals;Order;Family;Genus;Species;Pollinator
 16;ZE;GJ;1;Diptera;Sepsidae;-;-;;;;
 16;ZE;GN;1;Hemiptera;Pentatomidae ;Antiteuchus;Antiteuchus sp.;;;;
 16;ZSE;AI;1;Hymenoptera;Chalcididae;-;-;;;;
-16;ZSE;AJ;1;Hymenoptera;Apidae;-;-;;;;
+16;ZSE;AJ;1;Hymenoptera;Apidae;Paratrigona;Paratrigona lineata;yes;;Generalist;Native
 16;ZSE;BC;1;Diptera;Syrphidae;Baccha;Baccha sp.;;;;
 16;ZSE;BW;1;Diptera;Tachinidae;Leschenaultia;Leschenaultia sp.;;;;
 16;ZSE;CG;1;Hymenoptera;Vespidae;-;-;;;;
@@ -577,7 +577,7 @@ Rain garden ID;Zone;Morphotype;Individuals;Order;Family;Genus;Species;Pollinator
 8;ZSE;AH;1;Hymenoptera;Apidae;Trigona;Trigona spinipes;yes;;Generalist;Native
 12;ZSE;AH;1;Hymenoptera;Apidae;Trigona;Trigona spinipes;yes;;Generalist;Native
 29;ZE;AA;1;Lepidoptera;-;-;-;;;;
-29;ZE;AJ;2;Hymenoptera;Apidae;-;-;;;;
+29;ZE;AJ;2;Hymenoptera;Apidae;Paratrigona;Paratrigona lineata;yes;;Generalist;Native
 17;ZSE;AH;1;Hymenoptera;Apidae;Trigona;Trigona spinipes;yes;;Generalist;Native
 29;ZE;BC;1;Diptera;Syrphidae;Baccha;Baccha sp.;;;;
 19;ZSE;AH;1;Hymenoptera;Apidae;Trigona;Trigona spinipes;yes;;Generalist;Native
