@@ -13,4 +13,4 @@ Models_data_chapter_II_v2.csv – Input dataset containing response and explanat
 
 script_models_chapter_II_JWA_v3.R – R script containing the statistical analyses performed in the study.
 
-METEOROLOGICAL_CONDITIONS+SM_4.xlsx - Meteorological data on precipitation, humidity, and temperature for each sampling date, obtained from the weather station closest to each rain garden.
+METEOROLOGICAL_CONDITIONS_SM_4.xlsx - Meteorological data on precipitation, humidity, and temperature for each sampling date, obtained from the weather station closest to each rain garden.
